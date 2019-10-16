@@ -4,7 +4,6 @@ using System;
 using System.Collections.ObjectModel;
 using System.Runtime.CompilerServices;
 using System.Windows;
-using System.Windows.Automation.Peers;
 using System.Windows.Media;
 using Ptv.XServer.Controls.Map.Tools;
 using Ptv.XServer.Controls.Map.Canvases;
