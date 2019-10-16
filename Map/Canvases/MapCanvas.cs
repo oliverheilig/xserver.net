@@ -250,7 +250,7 @@ namespace Ptv.XServer.Controls.Map.Canvases
         protected WorldCanvas(MapView mapView, bool addToMap = true, Point localOffset = new Point())
             : base(mapView)
         {
-            this.localOffset = new Point(935569, 6268360);
+            this.localOffset = localOffset; //new Point(935569, 6268360);
 
             InitializeTransform();
 
